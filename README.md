@@ -1,4 +1,4 @@
-# :construction: glauca-blitz.art :construction:
+# 🚧 glauca-blitz.art 🚧
 **Site still under construction!**
 
 For the meantime, here might be some useful links:
