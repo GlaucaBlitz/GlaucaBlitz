@@ -1,9 +1,6 @@
-## Glauca Blitz
-Dragon anthro artist
-
-🚧 *(Site still under construction!)* 🚧
 [![Refsheet Image](/assets/img/glaucablitz-refsheet-1200.png)](/assets/img/glaucablitz-refsheet-full.png)
 ###### Full reference sheet details (including unarmored) [here](https://www.furaffinity.net/view/38281915/)
+###### 🚧 (Site still under construction!) 🚧
 {% capture leftbox %}
 
 ## General Info
@@ -32,4 +29,4 @@ Dragon anthro artist
 {% endcapture %}
 {% include horz-d-vert-m.html %}
 
-*Site layouting by [hazmatdr.one](https://hazmatdr.one/) :3*
+###### Site layouting by [hazmatdr.one](https://hazmatdr.one/) :3
