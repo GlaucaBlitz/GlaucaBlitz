@@ -1,4 +1,5 @@
-## 🚧 Site still under construction! 🚧
+## Glauca Blitz
+*🚧 Site still under construction! 🚧*
 
 Hello there! Dragon anthro artist who likes to draw strong muscle guys and also cute things.
 That's what I do mostly, 'faceless' & furry big muscle guys.
@@ -8,7 +9,6 @@ That's what I do mostly, 'faceless' & furry big muscle guys.
 {% capture leftbox %}
 
 ## General Info
-*Glauca Blitz*
 - **Species:** Western Dragon
 - **Height:** ~5.8ft *(177cm)*
 - **Gender:** Male *(him)*
