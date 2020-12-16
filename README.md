@@ -1,6 +1,3 @@
-## Glauca Blitz
-Dragon anthro artist
-
 [![Refsheet Image](/assets/img/glaucablitz-refsheet-1200.png)](/assets/img/glaucablitz-refsheet-full.png)
 ###### Full reference sheet details (including unarmored) [here](https://www.furaffinity.net/view/38281915/)
 ###### 🚧 (Site still under construction!) 🚧
