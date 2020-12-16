@@ -1,8 +1,7 @@
 ## Glauca Blitz
-*🚧 Site still under construction! 🚧*
+Dragon anthro artist
 
-Hello there! Dragon anthro artist who likes to draw strong muscle guys and also cute things.
-That's what I do mostly, 'faceless' & furry big muscle guys.
+🚧 *(Site still under construction!)* 🚧
 
 [![Refsheet Image](/assets/img/glaucablitz-refsheet-1200.png)](/assets/img/glaucablitz-refsheet-full.png)
 
@@ -27,8 +26,8 @@ That's what I do mostly, 'faceless' & furry big muscle guys.
 	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #3AD8FF">#3AD8FF</span> Eyes/Markings</span>
 	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #3AD8FF">#3AD8FF</span> Clothing</span>
 	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #C6BBB7">#C6BBB7</span> Armor</span>
-	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #C6BBB7">#C6BBB7</span> Armor Leather</span>
-	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #C6BBB7">#C6BBB7</span> Armor Accent</span>
+	<span style="padding: 0.5em"><span class="colorbox lighttext" style="background-color: #715A55">#715A55</span> Armor Leather</span>
+	<span style="padding: 0.5em"><span class="colorbox darktext" style="background-color: #FF3F39">#FF3F39</span> Armor Accent</span>
 </span>
 
 {% endcapture %}
@@ -36,4 +35,4 @@ That's what I do mostly, 'faceless' & furry big muscle guys.
 
 {% include horz-d-vert-m.html %}
 
-*Site layouting by [hazmatdr.one](https://hazmatdr.one/)*
+*Site layouting by [hazmatdr.one](https://hazmatdr.one/) :3*
